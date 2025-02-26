@@ -60,7 +60,7 @@ npm start
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
 ### Markdown Input
 - The user types Markdown-formatted text in the input area.
@@ -70,7 +70,7 @@ npm start
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint  | Description |
 |--------|----------|-------------|
@@ -84,7 +84,7 @@ npm start
 
 ---
 
-## 🎯 Features
+##  Features
 
  **FastAPI Backend** for handling Markdown conversion requests.  
  **Redis Caching** to improve performance and reduce redundant processing.  
@@ -94,7 +94,7 @@ npm start
 
 ---
 
-## 🛠 Troubleshooting
+##  Troubleshooting
 
 ### Backend Issues
 - **Redis is not running?** Start Redis before launching the backend.
